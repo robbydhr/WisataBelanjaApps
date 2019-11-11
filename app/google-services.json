@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "684243335757",
+    "firebase_url": "https://wisatabelanjaapps.firebaseio.com",
+    "project_id": "wisatabelanjaapps",
+    "storage_bucket": "wisatabelanjaapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684243335757:android:4b0bd28025c45d24",
+        "android_client_info": {
+          "package_name": "com.skripsi.robby.wisatabelanjaapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684243335757-d50sc5fntcr2349cckeq2phfgaqfgl4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxuQYQLzCO_Ram_2pR-zzLXKayJ9pyrq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

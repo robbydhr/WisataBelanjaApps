@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Shophunt Malang</string>
+
+    <string name="title_main">Shophunt Malang</string>
+    <string name="title_bobot">Atur Bobot</string>
+    <string name="title_hasil">Hasil Rekomendasi</string>
+
+    <string name="nama_tempat_wisata_belanja">Nama Tempat Wisata Belanja</string>
+    <string name="alamat_wisata_belanja">Alamat Wisata Belanja</string>
+    <string name="rating_ulasan">0.0 / 0000</string>
+    <string name="waktu_operasional">00:00 - 00:00</string>
+    <string name="status">Swalayan</string>
+</resources>

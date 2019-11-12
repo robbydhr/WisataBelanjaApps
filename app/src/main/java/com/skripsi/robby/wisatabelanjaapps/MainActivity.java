@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
             json_data = result;
             if(json_data==null)
             {
-                Toast.makeText(getApplicationContext(), "Restart Apps nya ir", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "please restart apps", Toast.LENGTH_LONG).show();
             }
             else
             {
